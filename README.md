@@ -1,2 +1,1 @@
-# markdown-toc
-Auto-generate TOC for Markdown files
+# markdown-toc\n\nAuto-generate table of contents for Markdown files.\n\n## Usage\n```bash\npython -m mdtoc README.md\n```\n\n## License\nMIT\n
